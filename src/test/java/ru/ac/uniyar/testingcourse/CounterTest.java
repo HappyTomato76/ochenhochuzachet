@@ -12,11 +12,11 @@ public class CounterTest {
         assertEquals(0, ctr.getValue());
     }
 
-    /*@Test
+    @Test
     public void testReset() {
         Counter ctr = new Counter();
         ctr.reset();
         assertEquals(0, ctr.getValue());
-    }*/
+    }
 
 }
